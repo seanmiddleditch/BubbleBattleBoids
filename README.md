@@ -17,6 +17,24 @@ Players take damage by hitting other objects at high speeds or by being hit
 by the enemy creatures.  Last player alive wins.  In solo mode, aim for
 survival time.
 
+The black areas are holes (don't fall in).  The white areas are walls, and
+can be used to bounce off of or slam enemies into.
+
+Todo Items
+----------
+
+The following are items that would be nice to do if the desire to continue
+hacking on the code takes hold of me.
+
+- Real animations, especially for dying and falling in pits.
+- Prettier graphics.
+- Proper menus, intro screens, and credits.
+- Sound effects and music.
+- Little tweaks to gameplay/physics.
+- Better and more game arenas.
+- Power ups?
+- More game modes?
+
 Screenshots (Development)
 -------------------------
 
